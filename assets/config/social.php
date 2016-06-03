@@ -7,8 +7,8 @@ return array(
     ),
     'twitter' => array(
         'type'      => 'twitter',
-        'appId'     => '',
-        'appSecret' => ''
+        'consumerKey'    => '',
+        'consumerSecret' => ''
     ),
     'google' => array(
         'type'      => 'google',
